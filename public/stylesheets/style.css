@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: silver;
 }
 
 footer
@@ -12,4 +12,10 @@ footer
   padding:20px 50px;
   background-color: #000;
   color: silver;
+}
+
+.jumbotron
+{
+  padding: 20px;
+  border-radius: 10px;
 }
