@@ -31,6 +31,7 @@ footer
   position: fixed;
   font-family: good-times;
   letter-spacing: 2px;
+  background-color: rgba(255,255,255,0.9);
 }
 
 .jumbo
@@ -103,7 +104,6 @@ a:hover
 }
 
 /* Facebook icon image change on Hover */
-
 .fb_off, #fb:hover .fb_on{
   display:none
 }
@@ -112,7 +112,6 @@ a:hover
 }
 
 /* Instagram icon image change on Hover */
-
 .insta_off, #insta:hover .insta_on{
   display:none
 }
@@ -121,7 +120,6 @@ a:hover
 }
 
 /* Twitter icon image change on Hover */
-
 .tw_off, #twitter:hover .tw_on{
   display:none
 }
@@ -129,11 +127,11 @@ a:hover
   display:block
 }
 
-/* Skype icon image change on Hover */
-.skype_off, #skype:hover .skype_on{
+/* Snapchat Snapcode icon image change on Hover */
+.snap_off, #snap:hover .snap_on{
   display:none
 }
-.skype_on, #skype:hover .skype_off{
+.snap_on, #snap:hover .snap_off{
   display:block
 }
 
@@ -145,11 +143,11 @@ a:hover
   display:block
 }
 
-/* WhatsApp icon image change on Hover */
-.wapp_off, #wapp:hover .wapp_on{
+/* Google Plus icon image change on Hover */
+.gplus_off, #gplus:hover .gplus_on{
   display:none
 }
-.wapp_on, #wapp:hover .wapp_off{
+.gplus_on, #gplus:hover .gplus_off{
   display:block
 }
 
